@@ -1,2 +1,8 @@
 # Electrical-Faults-Classification
 Classification of electrical faults in a 3-phase electrical transmission system having 6 classes of potential faults
+
+__Problem Description__
+The requirement of readily available power has grown exponentially over the years, and the prominent role of a transmission line is to transmit electric power from a source to the distribution network. The electrical power system consists of many complex, dynamic and interacting elements that are always prone to disturbances or electrical faults.
+High-capacity electrical generating power plants require fault detection and the operation of protective equipment to remain stable. Faults on electrical transmission lines must be quickly and accurately detected and classified, and then resolved as quickly as possible. An exemplary fault detection system provides a practical, reliable, fast, and secure way of relaying information from the grid to the operators. Furthermore, the application of pattern recognition could help to differentiate between faulty and healthy electrical power systems. 
+In this project, this team will attempt to address the classification problem detecting faults in a 3-phase electrical transmission system. The dataset used for this project leverages the most rudimentary attributes of an electrical system, voltage and current of the three phases, as a means of detecting faults. The problem can be approached as a binary classification problem as well as a multiclass (6 classes) classification model. However, this team will attempt the multiclass classification problem, which is to accurately detect 6 classes of faults. 
+
